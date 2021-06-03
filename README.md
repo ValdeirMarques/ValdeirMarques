@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Valdeir Marques 
+## Oiii! Eu sou o Valdeir Marques 
  <div>
   <a href="https://github.com/ValdeirMarques/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

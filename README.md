@@ -2,13 +2,13 @@
  <div>
   <a href="https://github.com/ValdeirMarques/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdeirMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdeirMarques&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdeirMarques&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ValdeirMarques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ValdeirMarques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ValdeirMarques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="ValdeirMarques-yoda" src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif">
+  <img align="right"  alt="ValdeirMarques-yoda" height="120" width="160" src="https://media.giphy.com/media/R8MIGe47XWx68/giphy.gif">
 </div>
   
   ##
